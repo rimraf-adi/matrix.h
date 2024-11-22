@@ -1,4 +1,4 @@
 ./matrix
 ./run.sh
-./.vscode
+.vscode
 ./build
